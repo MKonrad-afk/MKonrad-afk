@@ -4,75 +4,53 @@ Computer Science student focused on:
 - Cybersecurity
 - Backend Development
 - Network Programming
-- Embedded & Low-level Systems
+- Embedded Systems
 
 ## About Me
 
-I am a Computer Science student specializing in cybersecurity,
-network programming, and backend development.
+Passionate about secure software engineering, backend systems,
+and low-level technologies.
 
-I have experience building web and mobile applications using
-Java Spring Boot, Kotlin, Python, and C++.
-My interests include secure software engineering,
-distributed systems, embedded systems, and low-level technologies.
+Building projects with Java Spring Boot, Kotlin, Python, and C++.
 
-I enjoy combining practical software development with security-focused solutions
-and continuously improving my skills through commercial and personal projects.
-
-## Tech Stack
-
-### Languages
-- Java
-- Kotlin
-- Python
-- C++
-- TypeScript
-- SQL
-
-### Backend
-- Spring Boot
-- REST API
-- JWT Authentication
-
-### Mobile
-- Android SDK
-- Kotlin
-
-### Tools & Technologies
-- Git
-- Linux
-- Docker
-- PostgreSQL
-- Arduino
-- Raspberry Pi
-
-### Cybersecurity
-- Network Security
-- Steganography
-- Secure File Processing
+Interested in cybersecurity, distributed systems,
+embedded development, and secure backend architecture.
 
 ---
 
-# Featured Projects
 
-## Drone Telemetry Steganography System
-Secure telemetry embedding system for drone video streams using C++,
-Raspberry Pi, and Arduino.
+## GitHub Stats
 
-## Warehouse Management Backend
-Java Spring Boot backend system with REST APIs,
-SQL database integration, and POS integrations.
 
-## Android Arcade Game
-Mobile arcade game developed in Kotlin for Android devices.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MKonrad-afk&theme=tokyonight"/>
+</p>
 
-## Secure PDF Processing Tools
-Python-based tools for secure file and encrypted PDF processing.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKonrad-afk&theme=tokyo-night"/>
+</p>
+
+---
+
+## Tech Stack
+
+**Languages**  
+Java • Kotlin • Python • C++ • TypeScript • SQL
+
+**Backend & Tools**  
+Spring Boot • REST APIs • Docker • PostgreSQL • Linux • Git
+
+**Mobile & Embedded**  
+Android SDK • Arduino • Raspberry Pi
+
+**Cybersecurity**  
+Network Security • Steganography • Secure File Processing
+
 
 ---
 
 ## Currently Learning
-- Advanced Spring Security
+- Spring Security
 - Docker & CI/CD
 - Embedded Security
 - Distributed Systems
@@ -80,9 +58,6 @@ Python-based tools for secure file and encrypted PDF processing.
 ---
 
 ## Contact
- Warsaw, Poland
-
-k.markiewicz29@proton.me
-
-
+Warsaw, Poland  
+k.markiewicz29@proton.me  
 GitHub: https://github.com/MKonrad-afk
