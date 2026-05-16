@@ -19,18 +19,7 @@ embedded development, and secure backend architecture.
 ---
 
 
-## GitHub Stats
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MKonrad-afk&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKonrad-afk&theme=tokyo-night"/>
-</p>
-
----
 
 ## Tech Stack
 
