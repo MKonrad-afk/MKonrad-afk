@@ -9,23 +9,24 @@ My main interests are secure software engineering, cybersecurity,backend systems
 
 ## Tech Stack
 
-**Languages**  
+**Languages:**
 Java • Kotlin • Python • C++ • TypeScript • SQL
 
-**Backend & APIs**  
-Spring Boot • FastAPI • REST APIs • JWT Authentication • PostgreSQL
+**Backend & Systems:**
+Spring Boot • FastAPI • REST APIs • JWT • PostgreSQL • Linux • network programming • system-level programming
 
-**AI / LLM**  
-RAG • Embeddings • Semantic Search • Vector Search • Prompt Engineering • AI Document Processing
+**Cybersecurity:**
+Network security • cryptography • authentication • OWASP Top 10 • SIEM fundamentals • security log analysis threat intelligence • steganography • secure data processing
 
-**Tools & DevOps**  
+**Tools:**
 Docker • Linux • Git • CI/CD basics
 
 **Mobile & Embedded**  
 Android SDK • Arduino • Raspberry Pi
 
-**Cybersecurity**  
-Network Security • Steganography • Secure File Processing • Secure Backend Architecture
+**AI / LLM:**
+RAG • embeddings • vector search • LLM integration (Ollama) • LLM API integration • Prompt Engineering • AI Document Processing
+
 
 ---
 
@@ -47,6 +48,10 @@ Engineering thesis project focused on secure telemetry embedding in drone video 
 
 ### RAG PDF Chatbot
 AI-powered PDF question-answering system using FastAPI, embeddings, vector search, and RAG.
+
+### Linux Network Monitoring & Ai -Assisted Alert Triage (SentinelLite)
+Built a SIEM-lite tool that monitors outbound connections and authentication logs, detects SSH brute-force activity, and enriches HIGH alerts with IP reputation data and local AI summaries. 
+
 
 ### Mobile App Development
 Android mobile application developed in Kotlin, focused on gameplay logic, UI components, testing, and deployment preparation.
