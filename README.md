@@ -1,50 +1,45 @@
 
 # Konrad Markiewicz
 
-**SOC Analyst L1 | Cybersecurity | Backend Development | Computer Science Student**
 
-Currently working as a **Security Operations Center (SOC) Level 1 Analyst**, focusing on security monitoring, alert investigation, incident triage, and security log analysis.
+**SOC Analyst L1 | Cybersecurity Operations | Detection Engineering | Computer Science Student**
 
-I'm also a final-year Computer Science student specializing in **Cybersecurity, Computer Networks, Operating Systems, and Backend Development**.
+I work as a **SOC Analyst L1**, focusing on security monitoring, alert investigation, log analysis, and incident triage. I’m developing toward detection engineering, with a growing focus on detection rules, alert tuning, and SIEM configuration.
 
-I build software using **Java Spring Boot, Kotlin, Python, C++, FastAPI, Docker, and Linux**.
+I’m a final-year Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)**, specializing in cybersecurity, computer networks, operating systems, and system programming.
 
-My main interests include security operations, detection engineering, SOC automation, secure software engineering, backend systems, network programming, embedded development, and practical AI/LLM applications.
+I build software with **Java, Kotlin, Python, C++, TypeScript, Spring Boot, FastAPI, Docker, and Linux**. My interests include security operations, detection engineering, SOC automation, secure software, backend systems, network programming, embedded development, and practical AI/LLM applications.
 
 ---
-
 ## Tech Stack
 
 **Languages:**  
-Java • Kotlin • Python • C++ • TypeScript • SQL
+Java • Kotlin • Python • C++ • TypeScript • SQL • C#
 
 **Cybersecurity & SOC:**  
-Security Monitoring • Alert Triage • Incident Analysis • SIEM • Threat Intelligence • Log Analysis • Network Security • Cryptography • Authentication • OWASP Top 10 • Steganography
+Security Monitoring • Alert Triage • Incident Analysis • SIEM • Threat Intelligence • Log Analysis • Network Security • Cryptography • Authentication • OWASP Top 10
 
 **Security Tools & Platforms:**  
-Wazuh • Shuffle SOAR • Cortex • MISP • TheHive • Sysmon • Linux
+Wazuh • n8n • Cortex • MISP • TheHive • Sysmon • Suricata • Linux
 
 **Backend & Systems:**  
-Spring Boot • FastAPI • REST APIs • JWT • PostgreSQL • Linux • Network Programming • System-Level Programming
-
-**Tools:**  
-Docker • Git • Linux • CI/CD Basics
+Spring Boot • FastAPI • REST APIs • JWT • PostgreSQL • Docker • Linux • Network Programming • System-Level Programming
 
 **Mobile & Embedded:**  
 Android SDK • Arduino • Raspberry Pi
 
 **AI / LLM:**  
-RAG • Embeddings • Vector Search • LLM Integration (Ollama / APIs) • Prompt Engineering • AI Document Processing
+RAG • Embeddings • Vector Search • Ollama and API Integrations • Prompt Engineering • AI-Assisted Security Analysis • Document Processing
 
 ---
 
 ## Currently Learning
 
 - Advanced SOC analysis and incident response
-- Threat detection and detection engineering
-- SIEM and SOAR automation
+- Detection engineering, rule design, and alert tuning
+- SIEM configuration and SOAR automation
 - Threat intelligence correlation and enrichment
-- Blue Team Level 1 (BTL1) certification
+- Blue Team Level 1 (BTL1)
 - Secure backend development and Spring Security
 - LLM applications for security analysis
 - Docker, CI/CD, and distributed systems
@@ -55,22 +50,22 @@ RAG • Embeddings • Vector Search • LLM Integration (Ollama / APIs) • Pro
 
 ### SOC Automation Lab
 
-**Wazuh • Shuffle SOAR • Cortex • MISP • TheHive • Python**
+**Wazuh • n8n • Cortex • MISP • TheHive • Python**
 
-Contributing to a collaborative SOC automation project designed to streamline security alert processing, threat intelligence enrichment, and incident management.
+Contributing to a collaborative SOC automation project that connects security alert processing, threat intelligence enrichment, and incident management.
 
 My contributions include:
 
-- Integrating security alerts into automated Shuffle SOAR workflows.
-- Developing a custom Cortex API integration for automated IOC analysis.
-- Integrating MISP for threat intelligence lookups.
-- Implementing observable validation and conditional enrichment for IP addresses, domains, and file hashes.
-- Developing SHA-256-based alert deduplication and occurrence tracking.
-- Extending TheHive integration to update existing alerts instead of creating duplicates.
+- Adding a custom Wazuh integration that forwards level 12+ alerts to n8n over authenticated HTTPS.
+- Developing n8n triage workflows for alert normalization and observable extraction, validation, filtering, and deduplication.
+- Integrating MISP and Cortex to enrich indicators such as IP addresses, domains, URLs, and file hashes.
+- Handling enrichment outcomes such as matches, no matches, skipped observables, and unavailable results.
+- Implementing SHA-256-based alert deduplication and occurrence tracking.
+- Extending TheHive handling to update existing alerts and reduce duplicate cases.
 
 **Repository:** [SOC Automation Lab](https://github.com/Solivagantaeon/soc-automation-lab)
 
-### Linux Network Monitoring & AI-Assisted Alert Triage (SentinelLite)
+### Linux Network Monitoring & AI-Assisted Alert Triage — SentinelLite
 
 **Python • Linux • Network Monitoring • AI**
 
